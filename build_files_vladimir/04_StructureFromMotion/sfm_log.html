@@ -1,0 +1,119 @@
+<html><head>
+<link rel="stylesheet" type="text/css" href="http://jsxgraph.uni-bayreuth.de/distrib/jsxgraph.css" />
+<link rel="stylesheet" type="text/css" href="http://imagine.enpc.fr/~moulonp/style.css" /><script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.93/jsxgraphcore.js"></script>
+<title>[log] Sequential SfM reconstruction</title>
+</head>
+<h1>[log] Sequential SfM reconstruction</h1>
+<hr>Dataset info:Views count: 37<br><h3>Essential Matrix.</h3>
+
+<b>Robust Essential matrix:</b><br>-> View I:<br>id: 34126128<br>image path: dataset_people/photo_5427282424150215226_y.jpg<br>-> View J:<br>id: 326472230<br>image path: dataset_people/photo_5427282424150215231_y.jpg<br><br>- Threshold: 11.2828<br>- Resection status: OK<br>- # points used for robust Essential matrix estimation: 192<br>- # points validated by robust estimation: 187<br>- % points validated: 0.973958<br><h3>Initial triangulation - Residual of the robust estimation.<br>Thresholded at: 11.2828</h3>
+<h3>Histogram of residuals</h3>
+
+<div id="InitialPairTriangulationKeptInfo" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('InitialPairTriangulationKeptInfo', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [0.00000,0.11111,0.22222,0.33333,0.44444,0.55556,0.66667,0.77778,0.88889,1.00000,];
+var data1= [0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1]});
+var p2 = board.create('point',[11.28282,0.00000], {fixed:true});
+var p3 = board.create('point',[11.28282,0.00000], {fixed:true});
+var li = board.create('line',[p2,p3], {strokeColor:'00ff00',strokeWidth:2});
+board.unsuspendUpdate();
+board.setBoundingBox([-0.20000,0.00000,1.20000,0.00000]);
+</script>
+<hr><h4>Robust resection of view 294171242: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215227_y.jpg<br>- Threshold (error max): 5.69202<br>- Resection status: OK<br>- # points used for Resection: 152<br>- # points validated by robust estimation: 146<br>- % points validated: 0.960526<br><h4>Robust resection of view 1078683094: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215228_y.jpg<br>- Threshold (error max): 4.36133<br>- Resection status: OK<br>- # points used for Resection: 256<br>- # points validated by robust estimation: 245<br>- % points validated: 0.957031<br><h4>Robust resection of view 1178269393: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215225_y.jpg<br>- Threshold (error max): 7.33198<br>- Resection status: OK<br>- # points used for Resection: 305<br>- # points validated by robust estimation: 297<br>- % points validated: 0.97377<br><h4>Robust resection of view 570539746: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215224_y.jpg<br>- Threshold (error max): 5.54963<br>- Resection status: OK<br>- # points used for Resection: 339<br>- # points validated by robust estimation: 318<br>- % points validated: 0.938053<br><h4>Robust resection of view 762030273: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215223_y.jpg<br>- Threshold (error max): 5.52337<br>- Resection status: OK<br>- # points used for Resection: 398<br>- # points validated by robust estimation: 335<br>- % points validated: 0.841709<br><h4>Robust resection of view 1499149563: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215230_y.jpg<br>- Threshold (error max): 7.23593<br>- Resection status: OK<br>- # points used for Resection: 323<br>- # points validated by robust estimation: 307<br>- % points validated: 0.950464<br><h4>Robust resection of view 753120338: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215229_y.jpg<br>- Threshold (error max): 8.09816<br>- Resection status: OK<br>- # points used for Resection: 364<br>- # points validated by robust estimation: 344<br>- % points validated: 0.945055<br><h4>Robust resection of view 854684009: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215232_y.jpg<br>- Threshold (error max): 6.92026<br>- Resection status: OK<br>- # points used for Resection: 377<br>- # points validated by robust estimation: 360<br>- % points validated: 0.954907<br><h4>Robust resection of view 1765857571: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215222_y.jpg<br>- Threshold (error max): 12.8417<br>- Resection status: OK<br>- # points used for Resection: 311<br>- # points validated by robust estimation: 277<br>- % points validated: 0.890675<br><h4>Robust resection of view 118001120: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215221_y.jpg<br>- Threshold (error max): 10.8712<br>- Resection status: OK<br>- # points used for Resection: 334<br>- # points validated by robust estimation: 294<br>- % points validated: 0.88024<br><h4>Robust resection of view 1835742160: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215233_y.jpg<br>- Threshold (error max): 13.6436<br>- Resection status: OK<br>- # points used for Resection: 179<br>- # points validated by robust estimation: 165<br>- % points validated: 0.921788<br><h4>Robust resection of view 1895226176: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215234_y.jpg<br>- Threshold (error max): 18.1934<br>- Resection status: OK<br>- # points used for Resection: 151<br>- # points validated by robust estimation: 139<br>- % points validated: 0.92053<br><h4>Robust resection of view 1763636214: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215235_y.jpg<br>- Threshold (error max): 11.9439<br>- Resection status: OK<br>- # points used for Resection: 198<br>- # points validated by robust estimation: 176<br>- % points validated: 0.888889<br><h4>Robust resection of view 170391303: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215236_y.jpg<br>- Threshold (error max): 12.3247<br>- Resection status: OK<br>- # points used for Resection: 238<br>- # points validated by robust estimation: 220<br>- % points validated: 0.92437<br><h4>Robust resection of view 1581090896: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215237_y.jpg<br>- Threshold (error max): 6.67099<br>- Resection status: OK<br>- # points used for Resection: 276<br>- # points validated by robust estimation: 238<br>- % points validated: 0.862319<br><h4>Robust resection of view 1249130758: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215238_y.jpg<br>- Threshold (error max): 5.59843<br>- Resection status: OK<br>- # points used for Resection: 327<br>- # points validated by robust estimation: 298<br>- % points validated: 0.911315<br><h4>Robust resection of view 860836826: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215239_y.jpg<br>- Threshold (error max): 4.84347<br>- Resection status: OK<br>- # points used for Resection: 368<br>- # points validated by robust estimation: 336<br>- % points validated: 0.913043<br><h4>Robust resection of view 198243835: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215240_y.jpg<br>- Threshold (error max): 6.202<br>- Resection status: OK<br>- # points used for Resection: 364<br>- # points validated by robust estimation: 347<br>- % points validated: 0.953297<br><h4>Robust resection of view 424891007: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215241_y.jpg<br>- Threshold (error max): 7.78337<br>- Resection status: OK<br>- # points used for Resection: 371<br>- # points validated by robust estimation: 359<br>- % points validated: 0.967655<br><h4>Robust resection of view 265106419: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215243_y.jpg<br>- Threshold (error max): 9.09462<br>- Resection status: OK<br>- # points used for Resection: 170<br>- # points validated by robust estimation: 163<br>- % points validated: 0.958824<br><h4>Robust resection of view 1124316966: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215244_y.jpg<br>- Threshold (error max): 8.18522<br>- Resection status: OK<br>- # points used for Resection: 194<br>- # points validated by robust estimation: 184<br>- % points validated: 0.948454<br><h4>Robust resection of view 1350020634: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215247_y.jpg<br>- Threshold (error max): 7.87981<br>- Resection status: OK<br>- # points used for Resection: 87<br>- # points validated by robust estimation: 83<br>- % points validated: 0.954023<br><h4>Robust resection of view 1551686868: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215248_y.jpg<br>- Threshold (error max): 4.43654<br>- Resection status: OK<br>- # points used for Resection: 72<br>- # points validated by robust estimation: 69<br>- % points validated: 0.958333<br><h4>Robust resection of view 1798871232: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215249_y.jpg<br>- Threshold (error max): 5.72811<br>- Resection status: OK<br>- # points used for Resection: 235<br>- # points validated by robust estimation: 232<br>- % points validated: 0.987234<br><h4>Robust resection of view 1164201001: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215250_y.jpg<br>- Threshold (error max): 4.10564<br>- Resection status: OK<br>- # points used for Resection: 317<br>- # points validated by robust estimation: 305<br>- % points validated: 0.962145<br><h4>Robust resection of view 365855260: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215251_y.jpg<br>- Threshold (error max): 7.25215<br>- Resection status: OK<br>- # points used for Resection: 268<br>- # points validated by robust estimation: 260<br>- % points validated: 0.970149<br><h4>Robust resection of view 988082744: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215252_y.jpg<br>- Threshold (error max): 9.29373<br>- Resection status: OK<br>- # points used for Resection: 219<br>- # points validated by robust estimation: 203<br>- % points validated: 0.926941<br><h4>Robust resection of view 333687381: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215253_y.jpg<br>- Threshold (error max): 5.67866<br>- Resection status: OK<br>- # points used for Resection: 227<br>- # points validated by robust estimation: 208<br>- % points validated: 0.9163<br><h4>Robust resection of view 1979133402: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215246_y.jpg<br>- Threshold (error max): 10.9385<br>- Resection status: OK<br>- # points used for Resection: 131<br>- # points validated by robust estimation: 127<br>- % points validated: 0.969466<br><h4>Robust resection of view 1010673316: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215255_y.jpg<br>- Threshold (error max): 11.2548<br>- Resection status: OK<br>- # points used for Resection: 250<br>- # points validated by robust estimation: 241<br>- % points validated: 0.964<br><h4>Robust resection of view 1574326558: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215254_y.jpg<br>- Threshold (error max): 5.91382<br>- Resection status: OK<br>- # points used for Resection: 278<br>- # points validated by robust estimation: 259<br>- % points validated: 0.931655<br><h4>Robust resection of view 1135611940: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215257_y.jpg<br>- Threshold (error max): 9.94715<br>- Resection status: OK<br>- # points used for Resection: 205<br>- # points validated by robust estimation: 194<br>- % points validated: 0.946341<br><h4>Robust resection of view 161231762: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215256_y.jpg<br>- Threshold (error max): 6.80501<br>- Resection status: OK<br>- # points used for Resection: 224<br>- # points validated by robust estimation: 207<br>- % points validated: 0.924107<br><h4>Robust resection of view 147254205: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215245_y.jpg<br>- Threshold (error max): 12.9602<br>- Resection status: OK<br>- # points used for Resection: 80<br>- # points validated by robust estimation: 79<br>- % points validated: 0.9875<br><h4>Robust resection of view 1111497595: <br></h4>
+
+- Image path: dataset_people/photo_5427282424150215258_y.jpg<br>- Threshold (error max): 10.5862<br>- Resection status: OK<br>- # points used for Resection: 169<br>- # points validated by robust estimation: 168<br>- % points validated: 0.994083<br><hr><h3>Structure from Motion process finished.</h3>
+Structure from Motion statistics:<br>- # input images: 37<br>- # camera calibrated: 37<br>- # landmarks: 4645<br>- elapsed time: 8.695<br>- residual RMSE: 1.06305<h2>Histogram of reprojection-residuals</h2>
+
+<div id="3DtoImageResiduals" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('3DtoImageResiduals', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [0.00000,0.44082,0.88163,1.32244,1.76326,2.20407,2.64488,3.08570,3.52651,3.96732,];
+var data1= [13617.00000,8187.00000,5343.00000,3327.00000,2116.00000,1258.00000,831.00000,431.00000,211.00000,63.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1]});
+board.unsuspendUpdate();
+board.setBoundingBox([-0.79346,16327.80000,4.76079,-2647.80000]);
+</script>
+
+<div id="3DtoTracksSize" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('3DtoTracksSize', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [2.00000,3.05556,4.11111,5.16667,6.22222,7.27778,8.33333,9.38889,10.44444,11.50000,12.55556,13.61111,14.66667,15.72222,16.77778,17.83333,18.88889,19.94444,21.00000,];
+var data1= [1841.00000,989.00000,620.00000,373.00000,248.00000,182.00000,111.00000,88.00000,67.00000,39.00000,33.00000,25.00000,13.00000,9.00000,4.00000,1.00000,1.00000,0.00000,1.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1]});
+board.unsuspendUpdate();
+board.setBoundingBox([-1.80000,2209.20000,24.80000,-368.20000]);
+</script>
+</html>

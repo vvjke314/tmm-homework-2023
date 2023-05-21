@@ -1,0 +1,585 @@
+{
+    "version": [
+        "1",
+        "0",
+        "0"
+    ],
+    "views": [
+        {
+            "viewId": "34126128",
+            "poseId": "34126128",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215226_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "118001120",
+            "poseId": "118001120",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215221_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "147254205",
+            "poseId": "147254205",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215245_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "161231762",
+            "poseId": "161231762",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215256_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "170391303",
+            "poseId": "170391303",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215236_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "198243835",
+            "poseId": "198243835",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215240_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "265106419",
+            "poseId": "265106419",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215243_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "294171242",
+            "poseId": "294171242",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215227_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "326472230",
+            "poseId": "326472230",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215231_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "333687381",
+            "poseId": "333687381",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215253_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "365855260",
+            "poseId": "365855260",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215251_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "424891007",
+            "poseId": "424891007",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215241_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "570539746",
+            "poseId": "570539746",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215224_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "753120338",
+            "poseId": "753120338",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215229_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "762030273",
+            "poseId": "762030273",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215223_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "854684009",
+            "poseId": "854684009",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215232_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "860836826",
+            "poseId": "860836826",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215239_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "988082744",
+            "poseId": "988082744",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215252_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1010673316",
+            "poseId": "1010673316",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215255_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1078683094",
+            "poseId": "1078683094",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215228_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1111497595",
+            "poseId": "1111497595",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215258_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1124316966",
+            "poseId": "1124316966",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215244_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1135611940",
+            "poseId": "1135611940",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215257_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1164201001",
+            "poseId": "1164201001",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215250_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1178269393",
+            "poseId": "1178269393",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215225_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1249130758",
+            "poseId": "1249130758",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215238_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1350020634",
+            "poseId": "1350020634",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215247_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1499149563",
+            "poseId": "1499149563",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215230_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1551686868",
+            "poseId": "1551686868",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215248_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1574326558",
+            "poseId": "1574326558",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215254_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1581090896",
+            "poseId": "1581090896",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215237_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1763636214",
+            "poseId": "1763636214",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215235_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1765857571",
+            "poseId": "1765857571",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215222_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1798871232",
+            "poseId": "1798871232",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215249_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1835742160",
+            "poseId": "1835742160",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215233_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1895226176",
+            "poseId": "1895226176",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215234_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1979133402",
+            "poseId": "1979133402",
+            "intrinsicId": "2731974310",
+            "path": "dataset_people\/photo_5427282424150215246_y.jpg",
+            "width": "959",
+            "height": "1280",
+            "metadata": {
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "2731974310",
+            "width": "959",
+            "height": "1280",
+            "type": "radial3",
+            "serialNumber": "dataset_people",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1545.0966799187809",
+            "principalPoint": [
+                "479.5",
+                "640"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "false"
+        }
+    ]
+}
